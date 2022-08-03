@@ -1,4 +1,4 @@
-<div align= center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=050&duration=3000&color=00F701&background=FFFFFF00&center=true&vCenter=true&width=1012&height=52&lines=Hello+world..!+I'm+Mahesh;I'm+a+Blockchain+developer..!" alt="Typing SVG" /></a></div>
+<div align= center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=050&duration=3000&color=00F701&background=FFFFFF00&center=true&vCenter=true&width=1012&height=52&lines=Hello+world..!;I'm+a+Blockchain+developer..!" alt="Typing SVG" /></a></div>
 <div align = "center">- 🔭 Exploring new skillsets in Blockchain. </div>
 <div align = "center">- ⚡ Fun fact :- Food and Music🎵 are the reasons to live. </div>
 
