@@ -8,7 +8,7 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn Profile" height="30" width="30" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;">
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" rel="nofollow">
-    <img src="https://github.com/Maheswaranx15/Logo/blob/6d863204738aca5e4d028a6dcf43114cb2d09595/Gmail.png" alt="Gmail" height="30" width="30" data-canonical-src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" style="max-width: 100%;">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" height="30" width="30" data-canonical-src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" style="max-width: 100%;">
   </a>
 </p>
 <div align="center">
